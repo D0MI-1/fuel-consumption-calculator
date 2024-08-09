@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fuel-consumption-calculator/static/css/main.71522625.css",
+    "main.js": "/fuel-consumption-calculator/static/js/main.177a011d.js",
+    "static/js/453.81acc074.chunk.js": "/fuel-consumption-calculator/static/js/453.81acc074.chunk.js",
+    "index.html": "/fuel-consumption-calculator/index.html",
+    "main.71522625.css.map": "/fuel-consumption-calculator/static/css/main.71522625.css.map",
+    "main.177a011d.js.map": "/fuel-consumption-calculator/static/js/main.177a011d.js.map",
+    "453.81acc074.chunk.js.map": "/fuel-consumption-calculator/static/js/453.81acc074.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71522625.css",
+    "static/js/main.177a011d.js"
+  ]
+}
